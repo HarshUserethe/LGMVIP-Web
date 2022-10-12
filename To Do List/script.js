@@ -28,7 +28,10 @@
 
 
 
+
 document.querySelector('#add').onclick = function(){
+  
+  
   if(document.querySelector('#createlist').value.length == 0){
       alert("Please Enter a Task")
   }
@@ -55,7 +58,7 @@ document.querySelector('#add').onclick = function(){
       var task = document.querySelectorAll(".task");
       for(var i=0; i<task.length; i++){
           task[i].addEventListener("click", function(){
-            this.style.backgroundColor = "grey"
+            this.style.backgroundColor = "green"
           })
       }
 
@@ -64,3 +67,7 @@ document.querySelector('#add').onclick = function(){
   }
 }
 
+
+document.querySelector("#add").addEventListener("click", function(){
+  document.querySelector("#createlist").value = " ";
+})
