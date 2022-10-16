@@ -30,15 +30,6 @@ Having a list of everything you need to do written down in one place means you s
 - You can delete your task too.
 
 
-## Desktop & Mobile View
-
-![App Screenshot](https://i.postimg.cc/52W5Wjbc/pic2.png)  
-
-  
-
-![App Screenshot](https://i.postimg.cc/7L0Z8YHR/pic1.png)
-
-
 ## 🔗 Links
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshuserethe/)
  
