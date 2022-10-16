@@ -1,8 +1,8 @@
 
 # LGMVIP-Web-Task1
 
-Task-1: Create a To Do List Web App
-Code Editor: VS Code 
+-Task-1: Create a To Do List Web App
+-Code Editor: VS Code 
 ---------------------------------------------------------------------
 Internship To Enrich Your Career And Mind.
 
